@@ -1,0 +1,6 @@
+utils/TestUtils.class
+junits/studentsinfo/StudentsCRUDTest.class
+serenity/StudentSerenitySteps.class
+junits/studentsinfo/SerenityTest.class
+junits/studentsidinfo/SerenityIdInfoTest.class
+testbase/TestBase.class

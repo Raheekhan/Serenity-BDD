@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="1" name="junits.studentsinfo.SerenityTest" skipped="3" tests="6" time="1.32" timestamp="2017-11-26T16:49:08.113-05:00[America/New_York]"><testcase classname="junits.studentsinfo.SerenityTest" name="This is pending test"><skipped/></testcase><testcase classname="junits.studentsinfo.SerenityTest" name="This is a manual test"><skipped/></testcase><testcase classname="junits.studentsinfo.SerenityTest" name="File does not exist"><compromised message="/src/file.txt (No such file or directory)" type="java.io.FileNotFoundException">/src/file.txt (No such file or directory)</compromised><system-err>/src/file.txt (No such file or directory)
+junits.studentsinfo.SerenityTest.FileDoesNotExist(SerenityTest.java:54)
+</system-err></testcase><testcase classname="junits.studentsinfo.SerenityTest" name="Get all students"/><testcase classname="junits.studentsinfo.SerenityTest" name="This is failing test"><failure message="1 expectation failed.&#10;Expected status code &lt;500&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;200&gt;.
+
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)
+junits.studentsinfo.SerenityTest.thisIsFailingTest(SerenityTest.java:37)
+</system-err></testcase><testcase classname="junits.studentsinfo.SerenityTest" name="This is skipped test"><error message="/ by zero" type="java.lang.ArithmeticException">/ by zero</error><system-err>/ by zero
+junits.studentsinfo.SerenityTest.ThisIsSkippedTest(SerenityTest.java:48)
+</system-err></testcase></testsuite>

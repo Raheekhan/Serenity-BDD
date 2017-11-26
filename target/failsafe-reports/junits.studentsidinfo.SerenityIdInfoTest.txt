@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: junits.studentsidinfo.SerenityIdInfoTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 2, Skipped: 2, Time elapsed: 11.374 s <<< FAILURE! - in junits.studentsidinfo.SerenityIdInfoTest
+FileDoesNotExist(junits.studentsidinfo.SerenityIdInfoTest)  Time elapsed: 0.249 s  <<< ERROR!
+java.io.FileNotFoundException: /src/file.txt (No such file or directory)
+	at junits.studentsidinfo.SerenityIdInfoTest.FileDoesNotExist(SerenityIdInfoTest.java:54)
+
+thisIsFailingTest(junits.studentsidinfo.SerenityIdInfoTest)  Time elapsed: 0.48 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <500> but was <200>.
+
+	at junits.studentsidinfo.SerenityIdInfoTest.thisIsFailingTest(SerenityIdInfoTest.java:37)
+
+ThisIsSkippedTest(junits.studentsidinfo.SerenityIdInfoTest)  Time elapsed: 0.293 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at junits.studentsidinfo.SerenityIdInfoTest.ThisIsSkippedTest(SerenityIdInfoTest.java:48)
+
