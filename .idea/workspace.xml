@@ -1,7 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca72bee5-0a1b-4b81-8fa2-f83db0e5f60d" name="Default" comment="" />
+    <list default="true" id="ca72bee5-0a1b-4b81-8fa2-f83db0e5f60d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/junits/studentsinfo/CreateStudentDataDrivenTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/junits/studentsinfo/TagsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/testdata/studentinfo.csv" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/02dd8f8ada4c10b8ebb5c1f309605a6f7c147adc21bcf5c55829855ba045ff03.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/02dd8f8ada4c10b8ebb5c1f309605a6f7c147adc21bcf5c55829855ba045ff03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/089465a812b093f4223c743f9654f04f1ada1789c8111a8270777058a1d59760.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/089465a812b093f4223c743f9654f04f1ada1789c8111a8270777058a1d59760.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0d44128063b6791360cffd795594d59bf2b088ef9fa78a0c04585a877fa1edcd.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0d44128063b6791360cffd795594d59bf2b088ef9fa78a0c04585a877fa1edcd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0dfc61c3f7aaae374cf6e0d82608e15ec11c73c408e602887ac1eefd96db5cfe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1084bcab42bb1819aadce7b8f0dcea675951a72fc53763d9ce0f3b5c69e7d451.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1084bcab42bb1819aadce7b8f0dcea675951a72fc53763d9ce0f3b5c69e7d451.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/10b0bd3078e79f18c0f5c01bfcf60d935565e596c8cfa751d817ebb41377f03d.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/10b0bd3078e79f18c0f5c01bfcf60d935565e596c8cfa751d817ebb41377f03d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/121283cd1b3a03c4680a23c2f65a1b5ff4b0fdb35316d8bcf54a52b0ab29bbbd.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/175f2e94a842391739972085a154f932f3e34570e08dd57bde39f5723900efde.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/175f2e94a842391739972085a154f932f3e34570e08dd57bde39f5723900efde.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/17adf4bbaaa271d0cc6112935f1604937c56a37cdca88055e66c293a46a605b1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1b0ddca041d9b9a5ba174401a22364845d534cd1d359ec6f21167f922c360ab0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1b0ddca041d9b9a5ba174401a22364845d534cd1d359ec6f21167f922c360ab0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1b8db108251881cdee839fab557ac0ed96131c2f369dc7b7da7cf98f22da79a2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1d0c5a5d9c726f08c67920d8aa16bef90f9b402729c85ed432db2928cec3f4da.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1ebbf28ea4bcb0895a5d6b4fcffe3561ca1bdf1c908071ef1b0fd4db5a25b02a.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1ef7778b41bf41bf0bb98bfb8ed5f9946914fd78f3e5fccdce92b4a185ee74b2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1ef7778b41bf41bf0bb98bfb8ed5f9946914fd78f3e5fccdce92b4a185ee74b2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1f183a8a641c0cc3e04486858e69bf61cf085bc6938de90cca7a7bdffed2d6cc.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1f183a8a641c0cc3e04486858e69bf61cf085bc6938de90cca7a7bdffed2d6cc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/250c2311320f5430dd82d1082600a5ce4b526c8d98518c3aa16437eca10fdb09.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/2554ba2b3fef5daf8c3048ed7ebc07363504a0157f7b23b25088939dd636be90.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/25e72e9c6f8ab16a463a2000f910d2f7a9aadb05fb4faf2f9a101a3342f07ce2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/25e72e9c6f8ab16a463a2000f910d2f7a9aadb05fb4faf2f9a101a3342f07ce2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/28007c7f46bdb1aa13538ee8371d23f347fb98f1b9b6bd27a916ee4012801fb8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/28007c7f46bdb1aa13538ee8371d23f347fb98f1b9b6bd27a916ee4012801fb8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/28401062f4c6b6a28907101853becd5df964e53b577d2cc2c9722407bf4af0e8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/2a878001d0b3cd0bc64b8b8619fe7ef7c9b3d94e4e471b11b1a2793c8d055f9a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/2c7e36529c0948e31e4b4db512ea4f4fef3ebc5123f83bfb1d55d825034b574b.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/30853425be1017dc3beac425a1a120788f12fc0b9f02296db9fa34792b22e116.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/30fa87c0871bdbd10c92c3c7df03f3dc42cae642b6287ba478a95a00c8fc936b.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/30fa87c0871bdbd10c92c3c7df03f3dc42cae642b6287ba478a95a00c8fc936b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3144e62d3f78753ff5a47f4b307175f9025902fb23ad990df65c93a510b75407.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/314bba6c4233359b701f257fbfb94b6876ef106b5367d57ab38fe0f7384e3258.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3190dabc37954226fbb059323303c7d7ab20c7c232d5d9cac73f3905a26729b7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3190dabc37954226fbb059323303c7d7ab20c7c232d5d9cac73f3905a26729b7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/32c27d1128711449ce00edc62a2212601e0af15c9894355c5a850ccf6f252549.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/34d536d18b24dd08678e1cb88ceda12370ce90d7dd32415f96e6b05242a00af2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3723a39812221b6324e0b6f09615b8c417c8910a4e13f7cfa7c6ee179559fc27.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3723a39812221b6324e0b6f09615b8c417c8910a4e13f7cfa7c6ee179559fc27.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/38f590dab34319c6b0b64a27b8c320a4e359c0c33abeb705abd3ae32353b59d9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/38f590dab34319c6b0b64a27b8c320a4e359c0c33abeb705abd3ae32353b59d9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3baf6e2154bad545b9548eabb6bc608ca2728a37a38c37950040b3ee78a1a1f6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3baf6e2154bad545b9548eabb6bc608ca2728a37a38c37950040b3ee78a1a1f6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3fc6cbcdaf2b3693114142ef947b9f8a2ecd1979a46c4c90ffd7704bf1c36c0c.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3fc6cbcdaf2b3693114142ef947b9f8a2ecd1979a46c4c90ffd7704bf1c36c0c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3fc9e2ad7097888f1f9ceba773bf626d5b974ba8d75f478de1418ae0adcfeaa6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/41ee7ee6687be75c79748aa12750c5b1c7822ee0d65bb4053e05dd517d17be22.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/41ee7ee6687be75c79748aa12750c5b1c7822ee0d65bb4053e05dd517d17be22.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4420ea98ab2af02f4938af40da468fd884c2deb56a964e913d310830c43d6882.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4420ea98ab2af02f4938af40da468fd884c2deb56a964e913d310830c43d6882.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/48dbb96744ff2aba9b3164ff2fa18752859c03f9872539b6691535f23884772f.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/48dbb96744ff2aba9b3164ff2fa18752859c03f9872539b6691535f23884772f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4b29b0fa4a5c24c6f53bf65d59b89d2e25393c4c331b1b4c9f74e3217df3bb3d.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4b29b0fa4a5c24c6f53bf65d59b89d2e25393c4c331b1b4c9f74e3217df3bb3d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/519ee56ded2044967bb79371c67bf5e9cf8854f5d87c5371ca58e72d25b193d6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/519ee56ded2044967bb79371c67bf5e9cf8854f5d87c5371ca58e72d25b193d6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/51ee93e9dd10e231e6f721b3007e6c3af1d052e9e22813ec7cfa73e8f8e23733.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/51ee93e9dd10e231e6f721b3007e6c3af1d052e9e22813ec7cfa73e8f8e23733.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/57a449a6d408f555f12ec34fb5554cd3194179674b659dccaf1dc3e8f749cb76.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/5bb4d45e258539e3fac1614d50d8028817aae33b262154c008f72ed91fb21b8e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/5c3a03369d9ad76a3ed8487b7a01a29ae7ff5219a65b9240d549c1715835328c.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/5c3a03369d9ad76a3ed8487b7a01a29ae7ff5219a65b9240d549c1715835328c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/5d8a7ee66e913eccbe9581ceac66b402b7bb020165b3dc68d086e4453971531e.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/5d8a7ee66e913eccbe9581ceac66b402b7bb020165b3dc68d086e4453971531e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/5f7f05f94419af590a9d69385ce1c9accaffff881843a58466accf863c40ebbe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/6bfffc1414d341245382bc8673234962d3a7b40014fe639a5b07a32b405c517e.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/6bfffc1414d341245382bc8673234962d3a7b40014fe639a5b07a32b405c517e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/6c16d9191f5ba7fe4b8ca559476ed9da6ac9618bf2143c68ec79003800a52a5d.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/6d589a229e893da2d72c4f1d2db8d759e30a0ff9dfd0d46e7a37e5511a13e275.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7752fade3a08ee024fab6f73dc60095e1dd1ddc48a59d0b9b379d8fbd3a30c85.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7752fade3a08ee024fab6f73dc60095e1dd1ddc48a59d0b9b379d8fbd3a30c85.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7d46f7a6f12fad0310c8ca4dae07b35b606f50aafb8e515c2596dad0b5d7e84a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7d80852c3c385474ce0cbb51da011db54ecfc013ff795025e96393afa95d7380.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7d80852c3c385474ce0cbb51da011db54ecfc013ff795025e96393afa95d7380.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7eb669bcb30e507abffb452626f99ca73f3940a09b614fefcff8e36c932a7c76.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7eb669bcb30e507abffb452626f99ca73f3940a09b614fefcff8e36c932a7c76.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/849524dd1eff13323d80ccf514a54bce711bcbb1e42dacdea99b2a8525eb4d9d.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/849524dd1eff13323d80ccf514a54bce711bcbb1e42dacdea99b2a8525eb4d9d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/878e37ef5d6d88481f95dee859124b86944e43b1ee20a34e094fd3ba16071f99.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8bb67dda59c4bee220cf7fdbfe33a0f5adcb9174ad573f73be267d6fc736f608.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8bb67dda59c4bee220cf7fdbfe33a0f5adcb9174ad573f73be267d6fc736f608.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8e7912f405946e6c8c4a054472815aec3280b740cc485b2f9eeb14670bc230b1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8fabe2f125d644671568eef58d70ad3b03df834fa4d19e498746498eefac53db.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8fb1b16549c1bea66ac11cdf6802fb4582a8a87a701de2e63f4a442aaa16df3d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8fb1b16549c1bea66ac11cdf6802fb4582a8a87a701de2e63f4a442aaa16df3d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/93a491726e96084d8ca1b9cc567316f8f3670e98a1904f7d17914805274cac77.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/9472102bedfa3a7f043c04791d5e37736007ff36c48043561af43d77c264bb71.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/9955e2b67a2822d64b1a26d9117a034493ae0e71f25aa11b282525cd63e9c56a.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/9cb8679ea0fddfe0c10eb812397b67da051e67609a78b6a4e0164f950c9459de.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/9d45843a6e901cd4fe6d98d8d7acc18497b17e4399d558e7f4afbce3d0d00112.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/9d89cb65df71cccbc20b31b86e4eef3f798ef450e26194ffdeafbdda3abea1cb.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-7eb669bcb30e507abffb452626f99ca73f3940a09b614fefcff8e36c932a7c76.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-cb58849880b20d3e7a75404ca4c9bddb539b2ce76786d88b47e230953ef3963e.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-f31513f316fe3c98428cfc8a0a81379331695142c621478f5d61a7e4d46c1cdc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a06114ab69c514558425d63dc3450823e3ccbe4e750c226ea1198c0a27913ed8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a06114ab69c514558425d63dc3450823e3ccbe4e750c226ea1198c0a27913ed8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a4c22ac8ec2018e4aac8dda593d032d1a3ec525cf5319c171486bc6655d00376.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a4c22ac8ec2018e4aac8dda593d032d1a3ec525cf5319c171486bc6655d00376.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a6bc1020a3436f94298a90e832d8cc1b6ba54e6cc554e78a1fd2d4f1e8059353.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a91476c264fe588a6ec4e7d89393bc75331a473ff734e2291a86e797930cbddd.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a91476c264fe588a6ec4e7d89393bc75331a473ff734e2291a86e797930cbddd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ad28c727121c5163c59f823188eb8a6c705ba7153f6c857dc2de4115a93c181a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ad28c727121c5163c59f823188eb8a6c705ba7153f6c857dc2de4115a93c181a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/af6898cfed84cfe343c8b264562d27e78f4a794137f6712aab8282fcaef5ef4c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/af6898cfed84cfe343c8b264562d27e78f4a794137f6712aab8282fcaef5ef4c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b04d241c8082280b37fe8e2a1e96bfb29abc94619c253d765e77d553ae9d601c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b04d241c8082280b37fe8e2a1e96bfb29abc94619c253d765e77d553ae9d601c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b8cb23f98b6c0a46894f809563f1bab416aa1b6a2380e5499773ee741589d340.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b8e857c86a458528fc221b79b84a2a41b938c56bf331b3a439ac7e2419be7e47.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b8e857c86a458528fc221b79b84a2a41b938c56bf331b3a439ac7e2419be7e47.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b9f571caa8299792f5603bcb104926263f97b90d7e534a4199ac4c6ed1aa4013.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bcaf17897530162cb9bbad2f5eb212c057cd843f3db4c190ae621f7af58f0da1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bef8cc7148bb599877c268158579c7c8a17eb747c99a3536623737708b2386a0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c2537ff06dc1d5b950a52ef9441cee602b8f779cab4cc42a94aa8d0ca61841b2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c82743bf5623fc90751d777e1ab4711c4c80ec190b5cab427e3e6fe8f0b952cf.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c82743bf5623fc90751d777e1ab4711c4c80ec190b5cab427e3e6fe8f0b952cf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ca75d589ea41b478c1ec14def70520ff1eaca87eb2474b8fd51ad783bbc9bf59.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ca75d589ea41b478c1ec14def70520ff1eaca87eb2474b8fd51ad783bbc9bf59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/cb58849880b20d3e7a75404ca4c9bddb539b2ce76786d88b47e230953ef3963e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/cb58849880b20d3e7a75404ca4c9bddb539b2ce76786d88b47e230953ef3963e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/d3e0a7186e7c331e7d9f23f0dd80535425c2afe7309fcb9cc77bc353ea4b9c66.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/d46a3950ef2c8db4036533d08951e36ebb0ff32aa1cfbeb47cdce7eed86f4c96.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/d7f28d5211d71a8fae4d3ea3006510243fa14af91fd57f66d28078417c42f0f5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/d8554401c7530054d6fae97eb7a270ec4bbd7796f29d1e1d76cc46b4bef5a505.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/d9c93604677f6088be0fddd4a2fb2681ea4f6675be8eb3f88f8a4dc8d8f24dab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/d9c93604677f6088be0fddd4a2fb2681ea4f6675be8eb3f88f8a4dc8d8f24dab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/da56daac1b9cf5a1e9d0743a002195b6d8b4e29a184332f9837d66fa6e10fc63.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/da56daac1b9cf5a1e9d0743a002195b6d8b4e29a184332f9837d66fa6e10fc63.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/db8a231f6e644591aeb88bd78639117c6e501827900e2b93309cfad1afae246c.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/db8a231f6e644591aeb88bd78639117c6e501827900e2b93309cfad1afae246c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/dbfe3a285f66a18cb6ff5c9f1c922da51512b7c29b38d76698a741c4ea596503.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/dbfe3a285f66a18cb6ff5c9f1c922da51512b7c29b38d76698a741c4ea596503.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/df4d44614dfe5be7bd8f322ba98a4bec725b4eb83ab36853570e4338a1488372.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e005d8606cf3c7898db9ae2df481fc3d224968fddc3121f43dac7aae210a0904.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e1df31fba20bc369b245140d18c32fe4a38a887bfe337e93265a3aad9585198f.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e1df31fba20bc369b245140d18c32fe4a38a887bfe337e93265a3aad9585198f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e3451f1e71136f8016396ebd5697e0a3342a1d80ac510868d0c02b28dd908ce4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e5e991c960db7a02ac82e8dec780c5d1f2cd9fe790e7fc606da8bfda80238526.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e783d8f9cb405412cc76a04ca5ea2373dca9d5a6ae6861960d70366997bed75a.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e783d8f9cb405412cc76a04ca5ea2373dca9d5a6ae6861960d70366997bed75a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/eb489798528ebf9584cd91e04c2f7bfa969607f0a366b019f24ad1a35514f8d7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/eb489798528ebf9584cd91e04c2f7bfa969607f0a366b019f24ad1a35514f8d7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/eb94f425da70580b9bb263bde794a92b165ae849699e6b101232018eeda32e2d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f00324e5ff4d9a5bfb69d0a1dfe48ab4e7a0142bdce6cbcd97f55c963130986d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f00324e5ff4d9a5bfb69d0a1dfe48ab4e7a0142bdce6cbcd97f55c963130986d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f14e2e6fc2a5fd4f3c5a2bea56d69e0e5b991a434348a993d4318873c3f6acdc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f31513f316fe3c98428cfc8a0a81379331695142c621478f5d61a7e4d46c1cdc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f31513f316fe3c98428cfc8a0a81379331695142c621478f5d61a7e4d46c1cdc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f5698bffdae583d16974517ae3aafe52e586a8a5378bafa791fd7e9e18c6c989.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f5698bffdae583d16974517ae3aafe52e586a8a5378bafa791fd7e9e18c6c989.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f7f79db138e7cf9474578a68c8f6ec153d84c5c29cd52791a290af37ee8af704.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f7f79db138e7cf9474578a68c8f6ec153d84c5c29cd52791a290af37ee8af704.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f9e532e92cba82384d8b508193f294ac7d582ea3ff3532c46525f762f10defcb.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f9e532e92cba82384d8b508193f294ac7d582ea3ff3532c46525f762f10defcb.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/fd6f83f90dd3a93f3412d4a327a332ac40bd32100792a7ae8ac26da74b2a72bf.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ff010016e9717f73fa5b6be56523be2cbdbc83173853969d521e9deecb48239b.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/StudentApp-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/StudentApp-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/junits/studentsinfo/StudentsCRUDTest.class" afterPath="$PROJECT_DIR$/target/test-classes/junits/studentsinfo/StudentsCRUDTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/serenity/StudentSerenitySteps.class" afterPath="$PROJECT_DIR$/target/test-classes/serenity/StudentSerenitySteps.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/testbase/TestBase.class" afterPath="$PROJECT_DIR$/target/test-classes/testbase/TestBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/junits/studentsinfo/StudentsCRUDTest.java" afterPath="$PROJECT_DIR$/src/test/java/junits/studentsinfo/StudentsCRUDTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/serenity/StudentSerenitySteps.java" afterPath="$PROJECT_DIR$/src/test/java/serenity/StudentSerenitySteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" afterPath="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/utils/ReusableSpecifications.java" afterPath="$PROJECT_DIR$/src/test/java/utils/ReusableSpecifications.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-junits.studentsidinfo.SerenityIdInfoTest.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-junits.studentsidinfo.SerenityIdInfoTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-junits.studentsinfo.SerenityTest.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-junits.studentsinfo.SerenityTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-junits.studentsinfo.StudentsCRUDTest.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-junits.studentsinfo.StudentsCRUDTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/junits.studentsidinfo.SerenityIdInfoTest.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/junits.studentsidinfo.SerenityIdInfoTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/junits.studentsinfo.SerenityTest.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/junits.studentsinfo.SerenityTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/junits.studentsinfo.StudentsCRUDTest.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/junits.studentsinfo.StudentsCRUDTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/01aeb4bfe8e9d1615d076cabc8ca4d4492d0a14e8f9c58d12391808cbbded74e.csv" afterPath="$PROJECT_DIR$/target/site/serenity/01aeb4bfe8e9d1615d076cabc8ca4d4492d0a14e8f9c58d12391808cbbded74e.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/1ae49b1203c886005f887afffa92d3e6bcad32d09c74f27196d9030ddaa48397.csv" afterPath="$PROJECT_DIR$/target/site/serenity/1ae49b1203c886005f887afffa92d3e6bcad32d09c74f27196d9030ddaa48397.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/1ae49b1203c886005f887afffa92d3e6bcad32d09c74f27196d9030ddaa48397.html" afterPath="$PROJECT_DIR$/target/site/serenity/1ae49b1203c886005f887afffa92d3e6bcad32d09c74f27196d9030ddaa48397.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html" afterPath="$PROJECT_DIR$/target/site/serenity/2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/2e7589f87a992925b120276dae045c33a6cadccd83e6d5ebbc276d4d7ae95bc8.html" afterPath="$PROJECT_DIR$/target/site/serenity/2e7589f87a992925b120276dae045c33a6cadccd83e6d5ebbc276d4d7ae95bc8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" afterPath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" afterPath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/58ba97b0a9d03bf119311743f92abc468295aec56fc2833cd8c734cec0edbf68.html" afterPath="$PROJECT_DIR$/target/site/serenity/58ba97b0a9d03bf119311743f92abc468295aec56fc2833cd8c734cec0edbf68.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/8216991c031071962a69dcef3d6a9b029e874d0ca693c11bc71f39d49a53c06c.html" afterPath="$PROJECT_DIR$/target/site/serenity/8216991c031071962a69dcef3d6a9b029e874d0ca693c11bc71f39d49a53c06c.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/ae22dc2bf85e96bc2912ed02a97ca488b20dbcff5db31e800b1b24e8a830535f.html" afterPath="$PROJECT_DIR$/target/site/serenity/ae22dc2bf85e96bc2912ed02a97ca488b20dbcff5db31e800b1b24e8a830535f.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bd2eaf8dfe6c47d36356213961183d01ccc26bb92a86d89357bd55024c599294.csv" afterPath="$PROJECT_DIR$/target/site/serenity/bd2eaf8dfe6c47d36356213961183d01ccc26bb92a86d89357bd55024c599294.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bd2eaf8dfe6c47d36356213961183d01ccc26bb92a86d89357bd55024c599294.html" afterPath="$PROJECT_DIR$/target/site/serenity/bd2eaf8dfe6c47d36356213961183d01ccc26bb92a86d89357bd55024c599294.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bfa529e27777dffc63fa6180500f1378bf52725df004f84fbcda06d2ef60b49b.html" afterPath="$PROJECT_DIR$/target/site/serenity/bfa529e27777dffc63fa6180500f1378bf52725df004f84fbcda06d2ef60b49b.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/cb748abc40ea9dfb4f7ef1022c4339fc4bf371e55bd189f7c2fa663a29869c8d.html" afterPath="$PROJECT_DIR$/target/site/serenity/cb748abc40ea9dfb4f7ef1022c4339fc4bf371e55bd189f7c2fa663a29869c8d.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/d5dad7c3738908ff2d23abcca9089d598cc09c988b0db43e434aa9857d1651a5.csv" afterPath="$PROJECT_DIR$/target/site/serenity/d5dad7c3738908ff2d23abcca9089d598cc09c988b0db43e434aa9857d1651a5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/d5dad7c3738908ff2d23abcca9089d598cc09c988b0db43e434aa9857d1651a5.html" afterPath="$PROJECT_DIR$/target/site/serenity/d5dad7c3738908ff2d23abcca9089d598cc09c988b0db43e434aa9857d1651a5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/index.html" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/requirements/junits-package-requirements.json" afterPath="$PROJECT_DIR$/target/site/serenity/requirements/junits-package-requirements.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +249,8 @@
       <file leaf-file-name="StudentsCRUDTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/StudentsCRUDTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="73" column="56" lean-forward="true" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+            <state relative-caret-position="166">
+              <caret line="42" column="32" lean-forward="false" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,11 +258,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReusableSpecifications.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/ReusableSpecifications.java">
+      <file leaf-file-name="CreateStudentDataDrivenTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/CreateStudentDataDrivenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="315">
+              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1175#1176#0" expanded="true" />
+                <element signature="e#1207#1208#0" expanded="true" />
+                <element signature="e#1257#1258#0" expanded="true" />
+                <element signature="e#1299#1300#0" expanded="true" />
+                <element signature="e#1334#1335#0" expanded="true" />
+                <element signature="e#1365#1366#0" expanded="true" />
+                <element signature="e#1413#1414#0" expanded="true" />
+                <element signature="e#1453#1454#0" expanded="true" />
+                <element signature="e#1485#1486#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
+                <element signature="e#1555#1556#0" expanded="true" />
+                <element signature="e#1589#1590#0" expanded="true" />
+                <element signature="e#1625#1626#0" expanded="true" />
+                <element signature="e#1657#1658#0" expanded="true" />
+                <element signature="e#1707#1708#0" expanded="true" />
+                <element signature="e#1749#1750#0" expanded="true" />
+                <element signature="e#1782#1783#0" expanded="true" />
+                <element signature="e#1811#1812#0" expanded="true" />
+                <element signature="e#1855#1856#0" expanded="true" />
+                <element signature="e#1891#1892#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TagsTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/TagsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,12 +302,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testbase/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,12 +318,40 @@
       <file leaf-file-name="StudentSerenitySteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/serenity/StudentSerenitySteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="56" column="32" lean-forward="false" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+            <state relative-caret-position="120">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentinfo.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/testdata/studentinfo.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="92" column="34" lean-forward="false" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReusableSpecifications.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utils/ReusableSpecifications.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2194#2195#0" expanded="true" />
-                <element signature="e#2268#2269#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,6 +366,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -90,20 +377,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/junit/SerenityTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/junit/studentsidinfo/SerenityTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/junit/studentsidinfo/SerenityIdInfoTest.java" />
         <option value="$PROJECT_DIR$/serenity.properties" />
         <option value="$PROJECT_DIR$/src/test/java/junits/studentsinfo/SerenityTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/junits/studentsidinfo/SerenityIdInfoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/StudentClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/utils/TestUtils.java" />
-        <option value="$PROJECT_DIR$/src/test/java/serenity/StudentSerenitySteps.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/junits/studentsinfo/StudentsCRUDTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/utils/ReusableSpecifications.java" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/serenity/StudentSerenitySteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/testdata/studentinfo.csv" />
+        <option value="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/junits/studentsinfo/CreateStudentDataDrivenTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/junits/studentsinfo/TagsTest.java" />
       </list>
     </option>
   </component>
@@ -134,6 +424,9 @@
     <option name="x" value="1122" />
     <option name="width" value="318" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -254,6 +547,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="StudentApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="testdata" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -268,6 +569,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -289,7 +591,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.StudentAppRunner">
+  <component name="RunManager" selected="Maven.NegativeTests">
+    <configuration name="CreateStudentDataDrivenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="junits.studentsinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="StudentApp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="junits.studentsinfo" />
+      <option name="MAIN_CLASS_NAME" value="junits.studentsinfo.CreateStudentDataDrivenTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="NegativeTests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="verify" />
+                <option value="-Dtags=studentfeature:NEGATIVE, studentfeature:SMOKE" />
+                <option value="serenity:aggregate" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
     <configuration name="StudentAppRunner" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -340,56 +693,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="StudentsCRUDTest.createStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="junits.studentsinfo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="StudentApp" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="junits.studentsinfo" />
-      <option name="MAIN_CLASS_NAME" value="junits.studentsinfo.StudentsCRUDTest" />
-      <option name="METHOD_NAME" value="createStudent" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="StudentsCRUDTest.getStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="junits.studentsinfo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="StudentApp" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="junits.studentsinfo" />
-      <option name="MAIN_CLASS_NAME" value="junits.studentsinfo.StudentsCRUDTest" />
-      <option name="METHOD_NAME" value="getStudent" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="StudentsCRUDTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -429,6 +732,31 @@
       <option name="MAIN_CLASS_NAME" value="junits.studentsinfo.StudentsCRUDTest" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TagsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="junits.studentsinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="StudentApp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="junits.studentsinfo" />
+      <option name="MAIN_CLASS_NAME" value="junits.studentsinfo.TagsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -521,21 +849,22 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Maven.StudentAppRunner" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.createStudent" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.getStudent" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test02" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test01" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Maven.NegativeTests" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.StudentAppRunner" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test01" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.CreateStudentDataDrivenTest" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TagsTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.getStudent" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.createStudent" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TagsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CreateStudentDataDrivenTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test01" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StudentsCRUDTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -556,39 +885,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentsCRUDTest - 2017.11.26 at 15h 18m 24s.xml">
-      <configuration name="StudentsCRUDTest" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 17h 32m 49s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest - 2017.11.26 at 15h 47m 42s.xml">
-      <configuration name="StudentsCRUDTest" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 17h 38m 37s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest - 2017.11.26 at 15h 56m 04s.xml">
-      <configuration name="StudentsCRUDTest" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 17h 40m 16s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest - 2017.11.26 at 16h 01m 01s.xml">
-      <configuration name="StudentsCRUDTest" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 17h 54m 44s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest - 2017.11.26 at 16h 02m 27s.xml">
-      <configuration name="StudentsCRUDTest" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 17h 55m 54s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest - 2017.11.26 at 16h 04m 58s.xml">
-      <configuration name="StudentsCRUDTest" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 17h 59m 33s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest_getStudent - 2017.11.26 at 15h 45m 53s.xml">
-      <configuration name="StudentsCRUDTest.getStudent" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 18h 00m 47s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest_test01 - 2017.11.26 at 15h 55m 38s.xml">
-      <configuration name="StudentsCRUDTest.test01" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 18h 02m 36s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest_test02 - 2017.11.26 at 15h 49m 55s.xml">
-      <configuration name="StudentsCRUDTest.test02" configurationId="JUnit" />
+    <history-entry file="CreateStudentDataDrivenTest - 2017.11.26 at 18h 05m 12s.xml">
+      <configuration name="CreateStudentDataDrivenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsCRUDTest_test02 - 2017.11.26 at 15h 52m 44s.xml">
-      <configuration name="StudentsCRUDTest.test02" configurationId="JUnit" />
+    <history-entry file="TagsTest - 2017.11.26 at 18h 19m 35s.xml">
+      <configuration name="TagsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="750" y="0" width="690" height="900" extended-state="0" />
+    <frame x="826" y="0" width="614" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -600,13 +929,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41609588" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18364197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12587413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -621,12 +950,15 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -707,18 +1039,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testbase/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utils/TestUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -727,32 +1047,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
             <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsidinfo/SerenityIdInfoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="88" column="56" lean-forward="false" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/SerenityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -773,28 +1067,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/serenity/StudentSerenitySteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="56" column="32" lean-forward="false" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2194#2195#0" expanded="true" />
-            <element signature="e#2268#2269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/StudentsCRUDTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="73" column="56" lean-forward="true" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.0.2/rest-assured-3.0.2.jar!/io/restassured/builder/RequestSpecBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -803,21 +1075,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/ReusableSpecifications.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/SerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="735">
+          <caret line="72" column="12" lean-forward="false" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/annotation/RetentionPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/1.8.1/serenity-core-1.8.1.jar!/net/thucydides/core/annotations/Title.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsidinfo/SerenityIdInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-junit/1.8.1/serenity-junit-1.8.1.jar!/net/serenitybdd/junit/runners/SerenityParameterizedRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1353">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/ReusableSpecifications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/StudentsCRUDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="42" column="32" lean-forward="false" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testdata/studentinfo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="92" column="34" lean-forward="false" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/serenity/StudentSerenitySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testbase/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/CreateStudentDataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1175#1176#0" expanded="true" />
+            <element signature="e#1207#1208#0" expanded="true" />
+            <element signature="e#1257#1258#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+            <element signature="e#1334#1335#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+            <element signature="e#1555#1556#0" expanded="true" />
+            <element signature="e#1589#1590#0" expanded="true" />
+            <element signature="e#1625#1626#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1811#1812#0" expanded="true" />
+            <element signature="e#1855#1856#0" expanded="true" />
+            <element signature="e#1891#1892#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junits/studentsinfo/TagsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

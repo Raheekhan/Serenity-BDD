@@ -16,7 +16,6 @@
         <serenity.maven.version>1.8.1</serenity.maven.version>
         <serenity.cucumber.version>1.6.5</serenity.cucumber.version>
         <webdriver.driver>chrome</webdriver.driver>
-        <!--<surefire.rerunFailingTestsCount>1</surefire.rerunFailingTestsCount>-->
     </properties>
 
     <dependencies>
@@ -90,8 +89,11 @@
                     </includes>
                     <systemProperties>
                         <webdriver.driver>${webdriver.driver}</webdriver.driver>
-                        <!--<surefire.rerunFailingTestsCount>${surefire.rerunFailingTestsCount}</surefire.rerunFailingTestsCount>-->
                     </systemProperties>
+                    <!--<forkCount>2</forkCount>-->
+                    <!--<reuseForks>true</reuseForks>-->
+                    <!--<parallel>methods</parallel>-->
+                    <!--<threadCount>10</threadCount>-->
                 </configuration>
                 <executions>
                     <execution>

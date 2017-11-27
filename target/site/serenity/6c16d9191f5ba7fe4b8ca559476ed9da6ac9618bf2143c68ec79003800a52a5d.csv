@@ -1,3 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Serenity test","This is failing test","FAILURE","2017-11-26T16:49:09.02-05:00[America/New_York]","0.0","0.27"
-"Serenity test","This is skipped test","ERROR","2017-11-26T16:49:09.289-05:00[America/New_York]","0.0","0.16"

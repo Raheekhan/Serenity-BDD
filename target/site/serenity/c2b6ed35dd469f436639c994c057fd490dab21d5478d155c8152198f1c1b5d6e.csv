@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","This test will provide error of 400 when user tries to access invalid data","SUCCESS","2017-11-26T18:29:33.485-05:00[America/New_York]","0.0","5.7"
+"Tags test","This test will provide error of 400 when user tries to access invalid data","SUCCESS","2017-11-26T18:29:33.485-05:00[America/New_York]","0.0","5.7"
+"Tags test","This will verify is a status of 200 is returned for GET request","SUCCESS","2017-11-26T18:29:40.072-05:00[America/New_York]","0.0","0.49"

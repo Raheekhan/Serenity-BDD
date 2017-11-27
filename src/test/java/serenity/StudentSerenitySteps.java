@@ -1,10 +1,10 @@
 package serenity;
 
-import io.restassured.http.ContentType;
 import io.restassured.response.ValidatableResponse;
 import model.StudentClass;
 import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Step;
+import utils.ReusableSpecifications;
 
 import java.util.HashMap;
 import java.util.List;
@@ -22,7 +22,7 @@ public class StudentSerenitySteps {
         student.setCourses(courses);
 
         return SerenityRest.rest().given()
-                .contentType(ContentType.JSON)
+                .spec(ReusableSpecifications.getGenericRequestSpec())
                 .when().body(student).post().then();
     }
 
@@ -44,7 +44,7 @@ public class StudentSerenitySteps {
         student.setCourses(courses);
 
         return SerenityRest.rest().given()
-                .contentType(ContentType.JSON)
+                .spec(ReusableSpecifications.getGenericRequestSpec())
                 .log().all().when().body(student)
                 .put("/" + studentID).then();
     }

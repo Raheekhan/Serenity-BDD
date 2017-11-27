@@ -12,6 +12,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.MethodSorters;
 import serenity.StudentSerenitySteps;
 import testbase.TestBase;
+import utils.ReusableSpecifications;
 import utils.TestUtils;
 
 import java.util.ArrayList;
@@ -42,7 +43,7 @@ public class StudentsCRUDTest extends TestBase {
         courses.add("Selenium");
 
         steps.createStudent(firstName, lastName, email, programme, courses)
-        .statusCode(201);
+        .statusCode(201).spec(ReusableSpecifications.getGenericResponseSpec());
     }
 
     @Title("Verify if the student was added")

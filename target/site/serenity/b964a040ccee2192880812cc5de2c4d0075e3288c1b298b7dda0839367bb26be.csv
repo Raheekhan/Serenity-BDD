@@ -1,5 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Serenity id info test","This is failing test","FAILURE","2017-11-26T16:49:04.955-05:00[America/New_York]","0.0","0.48"
-"Serenity id info test","This is skipped test","ERROR","2017-11-26T16:49:05.44-05:00[America/New_York]","0.0","0.3"
-"Serenity test","This is failing test","FAILURE","2017-11-26T16:49:09.02-05:00[America/New_York]","0.0","0.27"
-"Serenity test","This is skipped test","ERROR","2017-11-26T16:49:09.289-05:00[America/New_York]","0.0","0.16"

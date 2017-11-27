@@ -1,19 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: junits.studentsinfo.SerenityTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 2, Skipped: 2, Time elapsed: 1.365 s <<< FAILURE! - in junits.studentsinfo.SerenityTest
-FileDoesNotExist(junits.studentsinfo.SerenityTest)  Time elapsed: 0.189 s  <<< ERROR!
-java.io.FileNotFoundException: /src/file.txt (No such file or directory)
-	at junits.studentsinfo.SerenityTest.FileDoesNotExist(SerenityTest.java:54)
-
-thisIsFailingTest(junits.studentsinfo.SerenityTest)  Time elapsed: 0.264 s  <<< FAILURE!
-java.lang.AssertionError: 
-1 expectation failed.
-Expected status code <500> but was <200>.
-
-	at junits.studentsinfo.SerenityTest.thisIsFailingTest(SerenityTest.java:37)
-
-ThisIsSkippedTest(junits.studentsinfo.SerenityTest)  Time elapsed: 0.153 s  <<< ERROR!
-java.lang.ArithmeticException: / by zero
-	at junits.studentsinfo.SerenityTest.ThisIsSkippedTest(SerenityTest.java:48)
-
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in junits.studentsinfo.SerenityTest

@@ -36,15 +36,15 @@
     <script class="code" type="text/javascript">$(document).ready(function () {
         var test_results_plot = $.jqplot('test_results_pie_chart', [
             [
-                ['Passing', 0.411765],
+                ['Passing', 1],
                 
-                ['Pending', 0.117647],
-                ['Pending (manual)', 0.117647],
+                ['Pending', 0],
+                
                 ['Ignored', 0],
-                ['Ignored (manual)', 0],
-                ['Failing', 0.117647],
                 
-                ['Errors',  0.117647]
+                ['Failing', 0],
+                
+                ['Errors',  0]
             ]
         ], {
 
@@ -52,7 +52,7 @@
             seriesColors: ['#30cb23',
                 
                 '#a2f2f2',
-                '#8bb1df',
+                
                 '#eeeadd',
                 
                 '#f8001f',
@@ -73,26 +73,25 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '7 / 17 tests passed' },
-                {label: '2 / 17 tests pending'},
-                {label: '2 / 17 manual tests pending' },
-                {label: '0 / 17 tests not executed'},
-                {label: '2 / 17 tests failed'},
-                {label: '2 / 17 errors'}
+                {label: '4 / 4 tests passed' },
+                {label: '0 / 4 tests pending'},
+                {label: '0 / 4 tests not executed'},
+                {label: '0 / 4 tests failed'},
+                {label: '0 / 4 errors'}
             ]
         });
 
         var weighted_test_results_plot = $.jqplot('weighted_test_results_pie_chart', [
             [
-                ['Passing', 0.46875],
+                ['Passing', 1],
                 
-                ['Pending', 0.0625],
-                ['Pending (manual)', 0.0625],
+                ['Pending', 0],
+                
                 ['Ignored', 0],
                 
-                ['Failing', 0.0625],
+                ['Failing', 0],
                 
-                ['Errors', 0.0625]
+                ['Errors', 0]
             ]
         ], {
 
@@ -100,7 +99,7 @@
             seriesColors: ['#30cb23',
                 
                 '#a2f2f2',
-                '#8be1df',
+                
                 '#eeeadd',
                 
                 '#f8001f',
@@ -122,12 +121,11 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '7 / 17 tests passed (0.46875% of all test steps)' },
-                {label: '2 / 17 tests pending'},
-                {label: '2 / 17 manual tests pending' },
-                {label: '0 / 17 tests not executed'},
-                {label: '2 / 17 tests failed (0.0625% of all test steps)'},
-                {label: '2 / 17 errors (0.0625% of all test steps)'}
+                {label: '4 / 4 tests passed (1% of all test steps)' },
+                {label: '0 / 4 tests pending'},
+                {label: '0 / 4 tests not executed'},
+                {label: '0 / 4 tests failed (0% of all test steps)'},
+                {label: '0 / 4 errors (0% of all test steps)'}
             ]
         });
 
@@ -194,7 +192,7 @@
             <a href="2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html"><i class="fa fa-comments-o"></i> Stories</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 26-11-2017 16:49</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 26-11-2017 18:29</span>
     <br style="clear:left"/>
 </div>
     <div class="clr"></div>

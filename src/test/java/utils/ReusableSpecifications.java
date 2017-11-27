@@ -1,17 +1,35 @@
 package utils;
 
 import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+
+import java.util.concurrent.TimeUnit;
+
+import static org.hamcrest.Matchers.lessThan;
 
 public class ReusableSpecifications {
 
-    public static RequestSpecBuilder rspec;
+    public static RequestSpecBuilder reqSpec;
     public static RequestSpecification requestSpecification;
+    public static ResponseSpecBuilder resSpec;
+    public static ResponseSpecification responseSpecification;
 
     public static RequestSpecification getGenericRequestSpec() {
-        rspec = new RequestSpecBuilder();
-        rspec.setContentType(ContentType.JSON);
-        return null;
+        reqSpec = new RequestSpecBuilder();
+        reqSpec.setContentType(ContentType.JSON);
+        requestSpecification = reqSpec.build();
+        return requestSpecification;
+    }
+
+    public static ResponseSpecification getGenericResponseSpec() {
+        resSpec = new ResponseSpecBuilder();
+        resSpec.expectHeader("Content-Type", "application/json;charset=UTF-8");
+        resSpec.expectHeader("Transfer-Encoding", "chunked");
+        resSpec.expectResponseTime(lessThan(5L), TimeUnit.SECONDS);
+        responseSpecification = resSpec.build();
+        return responseSpecification;
     }
 }

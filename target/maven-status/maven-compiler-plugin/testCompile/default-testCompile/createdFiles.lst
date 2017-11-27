@@ -1,6 +1,9 @@
+junits/studentsinfo/TagsTest.class
+utils/ReusableSpecifications.class
+junits/studentsinfo/SerenityTest.class
+junits/studentsinfo/CreateStudentDataDrivenTest.class
+testbase/TestBase.class
 utils/TestUtils.class
 junits/studentsinfo/StudentsCRUDTest.class
 serenity/StudentSerenitySteps.class
-junits/studentsinfo/SerenityTest.class
 junits/studentsidinfo/SerenityIdInfoTest.class
-testbase/TestBase.class

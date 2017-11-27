@@ -4,3 +4,6 @@
 /Users/ibrahimkhan/Desktop/Selenium/StudentApp/src/test/java/serenity/StudentSerenitySteps.java
 /Users/ibrahimkhan/Desktop/Selenium/StudentApp/src/test/java/utils/TestUtils.java
 /Users/ibrahimkhan/Desktop/Selenium/StudentApp/src/test/java/junits/studentsinfo/SerenityTest.java
+/Users/ibrahimkhan/Desktop/Selenium/StudentApp/src/test/java/utils/ReusableSpecifications.java
+/Users/ibrahimkhan/Desktop/Selenium/StudentApp/src/test/java/junits/studentsinfo/CreateStudentDataDrivenTest.java
+/Users/ibrahimkhan/Desktop/Selenium/StudentApp/src/test/java/junits/studentsinfo/TagsTest.java
