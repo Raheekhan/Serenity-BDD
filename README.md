@@ -8,8 +8,7 @@ with Serenity.
 it easier to write scripts similarly to Cucumber, but covers more ground.
 
 It produces some really nice reports with detailed and customizable
-information, which are really helpful for the team and for the business
-value.
+information, which are really helpful for the team and for the business value.
 
 I have plans in the future to also integrate this with [Taurus](https://gettaurus.org/) which is
 from [BlazeMeter](https://www.blazemeter.com/mobile_version/index.php).
